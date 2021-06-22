@@ -1,0 +1,66 @@
+header {
+	background-color: #e5e5e5;
+    background-image: url('../img/header2.jpg');
+    background-size: cover;
+}
+
+body {
+	font-family: Garamond;
+	font-style: normal;
+	font-weight: normal;
+    text-align: center;
+    color: black;
+    background-image: url('../img/ingenieria.png');
+    background-size: 100%;
+}
+
+.parrafo{
+    color: black;
+    font-family: Garamond;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+main{
+    width: 1041px;
+	height: 459px;
+	text-align: start;
+	display: inline-block;
+    font-size: 18px;
+}
+
+.elimPuntos{
+    list-style: none;
+}
+
+footer {
+    font-family: Garamond;
+	text-align: center;
+	color: Black;
+    text-decoration: none;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    background-color: gray;
+    opacity: 0.6;
+    color:blue;
+    font-size: 33px;
+}
+
+h3{
+    background-color: gray;
+    color: black;
+    font-size: 20px;
+}
+
+h4 a{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+h4{
+    text-align: center;
+    color: white;
+}

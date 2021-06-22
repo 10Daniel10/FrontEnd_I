@@ -1,0 +1,99 @@
+.headerUno{
+    background-color: black;
+    color: white;
+    font-family: Roboto;
+}
+
+.menuNav{
+    background-color: #F0A83E;
+    color:white;
+}
+
+#tit1{
+    text-align: center;
+}
+
+.Banner{
+    background-image: url('../img/Banner.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 800px;
+    text-align: center;
+    font-family: Roboto;
+}
+
+.comederos{
+    background-color:#F0A83E;
+    font-size: 20px;
+    color: white;
+    font-family: Roboto;
+}
+
+section a{
+    text-decoration: none;
+}
+
+.huella{
+    text-align: center;
+}
+
+.destacados{
+    font-size: 40px;
+    font-family: Roboto;
+}
+
+.suscripcion{
+    background-color: #F0A83E;
+    color: white;
+    font-family: Roboto;
+}
+
+.correo{
+    background-color:white;
+    background-size: contain;
+    color: black;
+}
+
+.suscrb{
+    background-color: #3C2313;
+    background-size: contain;
+    color:white;
+}
+
+.contacto{
+    text-align: center;
+    font-family: Roboto;
+}
+
+.contact{
+    color:#3C2313;
+    font-size: 40px;
+}
+
+.datos{
+    background-color: #3C2313;
+    color:white;
+}
+.datos2{
+    background-color: #8A8787;
+    color:white;
+}
+.datos3{
+    background-color: #F0A83E;
+    color:white;
+}
+
+
+.foorter{
+    background-color: #3C2313;
+    color: white;
+    font-family: Roboto;
+}
+
+.derechos{
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-family: Roboto;
+}
